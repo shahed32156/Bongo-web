@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Oval-2_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<linearGradient id="Oval-2_1_" gradientUnits="userSpaceOnUse" x1="6.0833" y1="30.3333" x2="6.0833" y2="29.3333" gradientTransform="matrix(36 0 0 -36 -201 1092)">
+		<stop  offset="0" style="stop-color:#1ADFFF"/>
+		<stop  offset="1" style="stop-color:#1E61F2"/>
+	</linearGradient>
+	<circle id="Oval-2" class="st0" cx="18" cy="18" r="18"/>
+	<path id="Facebook" class="st1" d="M19.2,25.5h-3.3v-7h-1.6v-2.7h1.6v-1.6c0-2.2,0.9-3.5,3.6-3.5h2.2v2.7h-1.4
+		c-1,0-1.1,0.4-1.1,1.1v1.4h2.5l-0.3,2.7h-2.2L19.2,25.5L19.2,25.5z"/>
+</g>
+</svg>
